@@ -4,42 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/xizi-poi/src/main/java/com/xizi/ExcelWrite_User.java" line="48" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5fae3b7-6196-468b-9a1a-ab0dcfdf0b6b" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xizi-poi/src/main/java/com/xizi/dao/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xizi-poi/src/main/java/com/xizi/dao/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xizi-poi/src/main/java/com/xizi/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xizi-poi/src/main/java/com/xizi/utils/MybatisUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xizi-poi/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xizi-poi/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xizi-poi/src/test/java/com/xizi/UserMapperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_easyexcel_2_2_0_beta2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ehcache_ehcache_3_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c5fae3b7-6196-468b-9a1a-ab0dcfdf0b6b" name="默认" comment="默认">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xizi-poi/EasyTest.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/xizi-poi/EasyTest.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xizi-poi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xizi-poi/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xizi-poi/src/main/java/com/xizi/ExcelReadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/xizi-poi/src/main/java/com/xizi/ExcelReadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xizi-poi/src/main/java/com/xizi/easy/DemoDataListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/xizi-poi/src/main/java/com/xizi/easy/DemoDataListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xizi-poi/target/classes/com/xizi/ExcelReadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/xizi-poi/target/classes/com/xizi/ExcelReadTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xizi-poi/target/classes/com/xizi/ExcelWriteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/xizi-poi/target/classes/com/xizi/ExcelWriteTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xizi-poi/target/classes/com/xizi/easy/DemoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/xizi-poi/target/classes/com/xizi/easy/DemoDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xizi-poi/target/classes/com/xizi/easy/DemoData.class" beforeDir="false" afterPath="$PROJECT_DIR$/xizi-poi/target/classes/com/xizi/easy/DemoData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xizi-poi/target/classes/com/xizi/easy/DemoDataListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/xizi-poi/target/classes/com/xizi/easy/DemoDataListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xizi-poi/target/classes/com/xizi/easy/EasyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/xizi-poi/target/classes/com/xizi/easy/EasyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xizi-poi/target/classes/com/xizi/utils/Read.class" beforeDir="false" afterPath="$PROJECT_DIR$/xizi-poi/target/classes/com/xizi/utils/Read.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xizi-poi/testWriteBigData03.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xizi-poi/testWriteBigData07.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xizi-poi/testWriteBigData07S.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xizi-poi/xizi-poi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xizi-poi/xizi-poi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xizi-poi/观众统计表.xls" beforeDir="false" afterPath="$PROJECT_DIR$/xizi-poi/观众统计表.xls" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/xizi-poi/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,7 +67,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xizi-poi/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
+            <state relative-caret-position="1924">
               <caret line="74" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
@@ -110,20 +76,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xizi-poi/src/main/java/com/xizi/ExcelWrite_User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
+            <state relative-caret-position="161">
               <caret line="108" column="75" selection-start-line="108" selection-start-column="75" selection-end-line="108" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xizi-poi/src/test/java/com/xizi/UserMapperTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="14" selection-start-line="14" selection-end-line="23" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -366,14 +323,14 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600777665104" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600777781953" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.33043477" />
   </component>
   <component name="RecentsManager">
@@ -516,8 +473,16 @@
       <workItem from="1599365788828" duration="556000" />
       <workItem from="1599659802407" duration="34000" />
       <workItem from="1600769476042" duration="5796000" />
-      <workItem from="1600776016627" duration="1426000" />
+      <workItem from="1600776016627" duration="1812000" />
     </task>
+    <task id="LOCAL-00001" summary="默认">
+      <created>1600777695131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600777695131</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -553,7 +518,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26455000" />
+    <option name="totallyTimeSpent" value="26841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -577,7 +542,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="调试" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.5609065" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -597,6 +562,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="默认" />
+    <option name="LAST_COMMIT_MESSAGE" value="默认" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$MAVEN_REPOSITORY$/com/alibaba/easyexcel/2.2.0-beta2/easyexcel-2.2.0-beta2.pom">
@@ -717,13 +686,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xizi-poi/src/test/java/com/xizi/UserMapperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="14" selection-start-line="14" selection-end-line="23" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xizi-poi/src/main/java/com/xizi/dao/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -738,14 +700,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xizi-poi/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
+        <state relative-caret-position="1924">
           <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xizi-poi/src/test/java/com/xizi/UserMapperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xizi-poi/src/main/java/com/xizi/ExcelWrite_User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
+        <state relative-caret-position="161">
           <caret line="108" column="75" selection-start-line="108" selection-start-column="75" selection-end-line="108" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
