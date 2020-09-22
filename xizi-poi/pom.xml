@@ -20,7 +20,7 @@
             <!--<artifactId>poi</artifactId>-->
             <!--<version>3.9</version>-->
         <!--</dependency>-->
-        <!--xlsx(07)-->
+        <!--&lt;!&ndash;xlsx(07)&ndash;&gt;-->
         <!--<dependency>-->
             <!--<groupId>org.apache.poi</groupId>-->
             <!--<artifactId>poi-ooxml</artifactId>-->
@@ -48,6 +48,53 @@
             <artifactId>fastjson</artifactId>
             <version>1.1.37</version>
         </dependency>
+
+
+            <dependency>
+                <groupId>mysql</groupId>
+                <artifactId>mysql-connector-java</artifactId>
+                <version>5.1.47</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.mybatis</groupId>
+                <artifactId>mybatis</artifactId>
+                <version>3.4.5</version>
+            </dependency>
+            <dependency>
+                <groupId>junit</groupId>
+                <artifactId>junit</artifactId>
+                <version>4.12</version>
+            </dependency>
+
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.7.25</version>
+        </dependency>
+
+
     </dependencies>
+    <!--在build中配置resources，来防止我们资源导出失败的问题-->
+    <build>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <includes>
+                    <include>**/*.properties</include>
+                    <include>**/*.xml</include>
+                </includes>
+                <filtering>true</filtering>
+            </resource>
+            <resource>
+                <directory>src/main/java</directory>
+                <includes>
+                    <include>**/*.properties</include>
+                    <include>**/*.xml</include>
+                </includes>
+                <filtering>true</filtering>
+            </resource>
+        </resources>
+    </build>
 
 </project>

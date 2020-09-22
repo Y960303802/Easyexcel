@@ -25,7 +25,7 @@ public class DemoDataListener extends AnalysisEventListener<DemoData> {
         this.demoDAO = demoDAO;
     }
 
-    @Override
+
     public void invoke(DemoData data, AnalysisContext context) {
         System.out.print(JSON.toJSONString(data));
         list.add(data);

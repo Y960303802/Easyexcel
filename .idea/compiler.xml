@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="xizi-poi" target="8" />
+      <module name="xizi-poi" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

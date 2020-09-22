@@ -15,21 +15,87 @@ public class ExcelReadTest {
     String PATH="D:\\IDEA\\JavaWorkSpace\\Easyexcel\\xizi-poi";
 
     @Test
-    public void testRead03() throws Exception {
+    public void testRead_User03() throws Exception {
 
-        FileInputStream fileInputStream = new FileInputStream(PATH+"\\观众统计表.xls");
+        FileInputStream fileInputStream = new FileInputStream(PATH+"\\学生成绩统计表03.xls");
         //创建一个工作簿
         HSSFWorkbook workbook = new HSSFWorkbook(fileInputStream);
 
         Sheet sheet = workbook.getSheetAt(0);
-        Row row = sheet.getRow(0);
-        Cell cell = row.getCell(0);
-        Cell cell1 = row.getCell(1);
-        System.out.println(cell.getStringCellValue());
-        System.out.println(cell1.getNumericCellValue());
+        int count1=0;
+        Row row1 = sheet.getRow(0);
+        Cell name1 = row1.getCell(count1++);
+        Cell id1 = row1.getCell(count1++);
+        Cell college1 = row1.getCell(count1++);
+        Cell score11 = row1.getCell(count1++);
+        Cell score22 = row1.getCell(count1++);
+        System.out.print(name1.getStringCellValue()+"     ");
+        System.out.print(id1.getStringCellValue()+"   ");
+        System.out.print(college1.getStringCellValue()+"   ");
+        System.out.print(score11.getStringCellValue()+"   ");
+        System.out.print(score22.getStringCellValue()+"   ");
+        System.out.println();
+        for (int i = 1; i <10 ; i++) {
+            int count=0;
+            Row row = sheet.getRow(i);
+            Cell name = row.getCell(count++);
+            Cell id = row.getCell(count++);
+            Cell college = row.getCell(count++);
+            Cell score1 = row.getCell(count++);
+            Cell score2 = row.getCell(count++);
+            System.out.print(name.getStringCellValue()+" ");
+            System.out.print(id.getStringCellValue()+" ");
+            System.out.print(college.getStringCellValue()+" ");
+            System.out.print(score1.getNumericCellValue()+" ");
+            System.out.print(score2.getNumericCellValue()+" ");
+            System.out.println();
+        }
+
         fileInputStream.close();
 
     }
+
+    @Test
+    public void testRead_User07() throws Exception {
+
+        FileInputStream fileInputStream = new FileInputStream(PATH+"\\学生成绩统计表07.xlsx");
+        //创建一个工作簿
+
+        Workbook workbook = new XSSFWorkbook(fileInputStream);
+        Sheet sheet = workbook.getSheetAt(0);
+        int count1=0;
+        Row row1 = sheet.getRow(0);
+        Cell name1 = row1.getCell(count1++);
+        Cell id1 = row1.getCell(count1++);
+        Cell college1 = row1.getCell(count1++);
+        Cell score11 = row1.getCell(count1++);
+        Cell score22 = row1.getCell(count1++);
+        System.out.print(name1.getStringCellValue()+"     ");
+        System.out.print(id1.getStringCellValue()+"   ");
+        System.out.print(college1.getStringCellValue()+"   ");
+        System.out.print(score11.getStringCellValue()+"   ");
+        System.out.print(score22.getStringCellValue()+"   ");
+        System.out.println();
+        for (int i = 1; i <10 ; i++) {
+            int count=0;
+            Row row = sheet.getRow(i);
+            Cell name = row.getCell(count++);
+            Cell id = row.getCell(count++);
+            Cell college = row.getCell(count++);
+            Cell score1 = row.getCell(count++);
+            Cell score2 = row.getCell(count++);
+            System.out.print(name.getStringCellValue()+" ");
+            System.out.print(id.getStringCellValue()+" ");
+            System.out.print(college.getStringCellValue()+" ");
+            System.out.print(score1.getNumericCellValue()+" ");
+            System.out.print(score2.getNumericCellValue()+" ");
+            System.out.println();
+        }
+
+        fileInputStream.close();
+
+    }
+
 
 
     @Test
